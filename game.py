@@ -16,7 +16,7 @@ pygame.display.set_caption("GATO")
 # ------------------ Mediapipe Setup ------------------
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.7)
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 # ------------------ Colors ------------------
 BLACK = (0, 0, 0)
