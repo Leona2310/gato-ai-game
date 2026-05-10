@@ -28,6 +28,11 @@ The game uses real-time hand tracking through webcam input to control gameplay m
 
 ---
 
+https://drive.google.com/file/d/1CG7dNOcUwLdn4OYsK-GEWp02j7IiNvvt/view?usp=sharing
+
+https://replit.com/@leonamendes10/gato-ai-game
+---
+
 ## ▶️ Run Locally
 
 ```bash
@@ -39,4 +44,3 @@ The project uses MediaPipe + OpenCV for real-time gesture recognition. Cloud env
 https://replit.com/@leonamendes10/gato-ai-game
 
 
-https://drive.google.com/file/d/1CG7dNOcUwLdn4OYsK-GEWp02j7IiNvvt/view?usp=sharing
